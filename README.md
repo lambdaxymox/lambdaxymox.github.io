@@ -1,2 +1,2 @@
 # stallmanifold.github.io
-Github site.
+Github site. Hello world!
