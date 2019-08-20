@@ -1,2 +1,2 @@
-# stallmanifold.github.io
+# lambdaxymox.github.io
 Github site. Hello world!
